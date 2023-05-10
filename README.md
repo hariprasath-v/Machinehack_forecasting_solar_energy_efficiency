@@ -4,7 +4,7 @@
 * Rank :28
 * Score :2620.31278
 
-### Competition hosted on <a href="[https://hf.co/spaces/competitions/ship-detection](https://machinehack.com/hackathons/forecasting_solar_energy_efficiency_engage_in_the_challenge_and_win)">Machinehack</a>
+### Competition hosted on <a href="https://machinehack.com/hackathons/forecasting_solar_energy_efficiency_engage_in_the_challenge_and_win">Machinehack</a>
 
 ### Problem
 create a model to predict solar energy efficiency based on the measurements of various meteorological parameters over a period of time.
@@ -14,7 +14,7 @@ create a model to predict solar energy efficiency based on the measurements of v
 
 ### Dataset
 
-You can download the dataset <a href="[https://huggingface.co/datasets/datadrivenscience/ship-detection](https://machinehack.com/hackathons/forecasting_solar_energy_efficiency_engage_in_the_challenge_and_win/data)">here</a>    
+You can download the dataset <a href="https://machinehack.com/hackathons/forecasting_solar_energy_efficiency_engage_in_the_challenge_and_win/data">here</a>    
 
 ### Solution:
 
